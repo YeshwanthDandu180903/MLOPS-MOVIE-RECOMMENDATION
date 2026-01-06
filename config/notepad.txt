@@ -1,0 +1,4 @@
+
+connection_string:
+
+mongodb+srv://yeshwanthdandu2003_db_user:bRc8ZOMVQocYGYH3@cluster0.vd7offd.mongodb.net/?appName=Cluster0
